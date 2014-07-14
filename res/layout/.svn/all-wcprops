@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/android/!svn/ver/4/Mp3Player1.1/res/layout
+END
+local_sys_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/android/!svn/ver/4/Mp3Player1.1/res/layout/local_sys_list.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/android/!svn/ver/4/Mp3Player1.1/res/layout/main.xml
+END
+remote_mp3_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/android/!svn/ver/4/Mp3Player1.1/res/layout/remote_mp3_list.xml
+END
+mp3info_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/android/!svn/ver/4/Mp3Player1.1/res/layout/mp3info_item.xml
+END
+player.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/android/!svn/ver/4/Mp3Player1.1/res/layout/player.xml
+END
